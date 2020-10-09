@@ -3,7 +3,7 @@ from api import Refran
 
 app = Flask(__name__)
 
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/')
 def home():
 	refran = Refran()
 	return render_template('index.html', linea=refran.generate_refran())

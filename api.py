@@ -7,7 +7,7 @@ api = Api(app)
 
 class Refran:
 	def get_refran(self, filtro):
-		return refranes[random.randint(0,len(refranes)-1]
+		return refranes[random.randint(0,len(refranes)-1)]
 	
 	def generate_refran(self):
 		refran = get_refran(json.load(open('refranes.json')))

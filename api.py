@@ -10,7 +10,7 @@ class Refran:
 		return refranes[random.randint(0,len(refranes)-1)]
 	
 	def generate_refran(self):
-		refran = get_refran(json.load(open('refranes.json')))
+		refran = self.get_refran(json.load(open('refranes.json')))
 		return refran
 		
 if __name__ == '__main__':

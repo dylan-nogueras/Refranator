@@ -11,6 +11,7 @@ class Refran:
 	
 	def generate_refran(self):
 		refran = get_refran(json.load(open('refranes.json')))
+		return refran
 		
 if __name__ == '__main__':
     print(Refran().generate_refran())

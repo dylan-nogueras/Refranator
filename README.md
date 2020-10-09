@@ -17,4 +17,9 @@ Las herramientas que van a usarse se detallan a continuación.
 - Lenguaje: `Python`
 - Aplicación web: `Flask`
 
+## Más fuentes
+
+[Uso de Heroku con Flask](https://codigofacilito.com/articulos/deploy-flask-heroku)
+[Otro repositorio que usa Flask](https://github.com/tdd-organization-afp/DatosDemograficos)
+
 

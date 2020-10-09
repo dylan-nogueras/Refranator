@@ -6,7 +6,7 @@ app = Flask(__name__)
 api = Api(app)
 
 class Refran:
-	def get_refran(self, filtro):
+	def get_refran(self, refranes):
 		return refranes[random.randint(0,len(refranes)-1)]
 	
 	def generate_refran(self):

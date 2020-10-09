@@ -4,7 +4,7 @@ Generador de refranes españoles.
 
 Aplicación web que genera un refrán aleatorio cada vez que se recarga la página.
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Repositorio e idea basados en un proyecto generador de haikus:
 

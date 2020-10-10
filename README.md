@@ -18,7 +18,13 @@ Las herramientas que van a usarse se detallan a continuación.
 - Aplicación web: `Flask`
 - Cloud computing: `Heroku`
 
-## Contribuir
+## Visualización
+
+Para acceder al generador de refranes se puede entrar en este [enlace](https://refranator.herokuapp.com). Alternativamente, se puede acceder a la carpeta Refranator y ejecutar desde consola:
+
+`python3 api.py`
+
+## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Puedes añadir algunos refranes al archivo refranes.json. Todo está indicado en este [issue](https://github.com/aure-nogueras/Refranator/issues/6).
 

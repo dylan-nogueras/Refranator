@@ -22,7 +22,7 @@ Las herramientas que van a usarse se detallan a continuación.
 
 Para acceder al generador de refranes se puede entrar en este [enlace](https://refranator.herokuapp.com). Alternativamente, se puede acceder a la carpeta Refranator y ejecutar desde consola:
 
-`python3 api.py`
+`python3 webapp.py`
 
 ## Contribuciones
 
@@ -33,5 +33,7 @@ Para acceder al generador de refranes se puede entrar en este [enlace](https://r
 [Uso de Heroku con Flask](https://codigofacilito.com/articulos/deploy-flask-heroku)
 
 [Otro repositorio que usa Flask](https://github.com/tdd-organization-afp/DatosDemograficos)
+
+[Flask - Quick Guide](https://www.tutorialspoint.com/flask/flask_quick_guide.htm)
 
 
